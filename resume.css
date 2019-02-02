@@ -1,0 +1,12 @@
+h1, h2 { text-align: center; }
+
+#tufts { margin-left: 40px; }
+
+#resume {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.location { float: right; }
+
+.dates { float: right; }
