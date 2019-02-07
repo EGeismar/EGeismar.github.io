@@ -9,6 +9,11 @@ h1 { text-align: center; }
     text-align: center;
 }
 
+.bio {
+    display: inline-block;
+    text-align: center;
+}
+
 img {
     display: block;
     margin-left: auto;
